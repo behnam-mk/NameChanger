@@ -1,2 +1,2 @@
 # NameChanger
-A powerfull tool for rename a groupe of files in your specific style and format
+A powerfull tool for rename a group of files in your specific style and format
